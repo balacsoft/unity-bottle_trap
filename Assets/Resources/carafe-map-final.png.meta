@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 1f1fbd2cc3c445c4fa3112be0fe417c8
+timeCreated: 1456009578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: liquid_4_4_0
+    21300002: liquid_4_4_1
+    21300004: liquid_4_4_2
+    21300006: liquid_4_4_3
+    21300008: liquid_4_4_4
+    21300010: liquid_4_4_5
+    21300012: liquid_4_4_6
+    21300014: liquid_3_4_0
+    21300016: liquid_3_4_1
+    21300018: liquid_3_4_2
+    21300020: liquid_3_4_3
+    21300022: liquid_3_4_4
+    21300024: liquid_3_4_5
+    21300026: liquid_3_4_6
+    21300028: liquid_2_4_0
+    21300030: liquid_2_4_1
+    21300032: liquid_2_4_2
+    21300034: liquid_2_4_3
+    21300036: liquid_2_4_4
+    21300038: liquid_2_4_5
+    21300040: liquid_2_4_6
+    21300042: carafe-map-final_21
+    21300044: liquid_1_4_0
+    21300046: liquid_1_4_1
+    21300048: liquid_1_4_2
+    21300050: liquid_1_4_3
+    21300052: liquid_1_4_4
+    21300054: liquid_1_4_5
+    21300056: liquid_1_4_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: liquid_4_4_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1211
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_4_4_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1211
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_4_4_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1211
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_4_4_3
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1211
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_4_4_4
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1211
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_4_4_5
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1211
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_4_4_6
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1211
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_3_4_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 807
+        width: 263
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_3_4_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 807
+        width: 263
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_3_4_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 807
+        width: 263
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_3_4_3
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 807
+        width: 263
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_3_4_4
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 807
+        width: 263
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_3_4_5
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 807
+        width: 263
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_3_4_6
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 807
+        width: 263
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_2_4_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 405
+        width: 264
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_2_4_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 405
+        width: 264
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_2_4_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 405
+        width: 264
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_2_4_3
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 405
+        width: 264
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_2_4_4
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 405
+        width: 264
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_2_4_5
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 405
+        width: 264
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_2_4_6
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 405
+        width: 264
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_1_4_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 5
+        width: 224
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_1_4_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 5
+        width: 224
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_1_4_2
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 5
+        width: 223
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_1_4_3
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 5
+        width: 223
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_1_4_4
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 5
+        width: 223
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_1_4_5
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 6
+        width: 223
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: liquid_1_4_6
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 5
+        width: 223
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

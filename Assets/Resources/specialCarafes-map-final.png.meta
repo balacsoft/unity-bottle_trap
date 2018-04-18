@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 4035ab18a29987948a87e84b99cc2f7f
+timeCreated: 1456093045
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: specialCarafes-map-final_0
+    21300002: specialCarafes-map-final_1
+    21300004: specialCarafes-map-final_2
+    21300006: specialCarafes-map-final_3
+    21300008: specialCarafes-map-final_4
+    21300010: specialCarafes-map-final_5
+    21300012: specialCarafes-map-final_6
+    21300014: specialCarafes-map-final_7
+    21300016: specialCarafes-map-final_8
+    21300018: specialCarafes-map-final_9
+    21300020: specialCarafes-map-final_10
+    21300022: specialCarafes-map-final_11
+    21300024: specialCarafes-map-final_12
+    21300026: specialCarafes-map-final_13
+    21300028: specialCarafes-map-final_14
+    21300030: specialCarafes-map-final_15
+    21300032: specialCarafes-map-final_16
+    21300034: specialCarafes-map-final_17
+    21300036: specialCarafes-map-final_18
+    21300038: specialCarafes-map-final_19
+    21300040: specialCarafes-map-final_20
+    21300042: specialCarafes-map-final_21
+    21300044: specialCarafes-map-final_22
+    21300046: specialCarafes-map-final_23
+    21300048: specialCarafes-map-final_24
+    21300050: specialCarafes-map-final_25
+    21300052: specialCarafes-map-final_26
+    21300054: specialCarafes-map-final_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: specialCarafes-map-final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1201
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 799
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 799
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 799
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 799
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 799
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 799
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 399
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 399
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 399
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 399
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 399
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_20
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 399
+        width: 340
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: specialCarafes-map-final_27
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
